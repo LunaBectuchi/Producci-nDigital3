@@ -1,0 +1,68 @@
+
+body {
+  padding-bottom: 20px;
+  font-family: 'Didact Gothic', sans-serif;
+}
+
+.index{background-color: red}
+.historia{background-color: yellow}
+.ramas{background-color: blue}
+.museos{background-color: black}
+.enargentina{background-color: grey}
+.contenedor-total{width: 1080px; background-color: white;margin: auto}
+
+.bannerindex{width: 90%;margin-left: 5%}
+.bannerindex img{width: 100%}
+.bannerramas{width: 50%;margin-left: 25%;margin-bottom: 70px}
+.bannerramas img{width: 100%}
+
+
+.linea{height: 20px;width: 60%;background-color: black}
+
+.firstrow{display: flex;padding-top: 50px}
+.inicio{width: 45%;}
+.imgbanner img{width: 100%}
+.txt{width: 51%; padding: 2%;text-align: center;}
+
+
+.texto-introductorio{text-align: center; width: 60%;margin-left: 20%;padding-top: 25px}
+
+.secondrow{display: flex; padding-top: 50px}
+.txtsegundo{width: 51%; text-align: center;padding: 2%}
+.mitad{width: 50%;}
+.mitad img{width: 100%}
+
+
+
+.cajatrescolumnas{ width: 90%;display: flex; padding-top: 30px; margin-left: 6%;padding-top: 20px; text-align: center;}
+.cajauno{margin-left: 2%; width: 100%; padding-bottom: 20PX}
+.cajauno img{padding-bottom: 20px}
+
+.cajauno:hover {}
+.cajados{width: 100%;height: 100%;}
+a{text-decoration: none; list-style: none;color: black;}
+.me-4{color: black}
+
+.cajados:hover {
+  transform: scale(0.7);
+  transition-duration: 1s;
+  transition-timing-function: ease-out;
+}
+
+.primeracolumna{display: flex;margin: 0px;padding: 0px}
+.principiodos{width: 100%;margin-top: 40%; }
+.imghistoria img{width: 100%}
+.inicios{width: 45%;}
+
+.creacion{width: 90%; margin-left: 5%}
+.creacion img{width: 100%;padding-bottom: 10px}
+h2{text-align: center;padding-top: 50px; padding-bottom: 25px;font-size: 25px}
+
+.titulos{font-size: 30px;padding: 20px;text-align: center;}
+.argentina{text-align: center;}
+.argentina img{width: auto}
+.texto-foto{width: 70%;padding: 30px;text-align: center;margin-left: 15%}
+
+
+
+
