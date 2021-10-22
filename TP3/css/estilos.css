@@ -1,0 +1,95 @@
+
+body {
+  padding-bottom: 20px;
+  font-family: 'Didact Gothic', sans-serif;
+}
+
+.navbar-brand{font-size: 35px}
+
+.index{background-color: blue}
+.historia{background-color: yellow}
+.ramas{background-color: red}
+.museos{background-color: blue}
+.enargentina{background-color: yellow}
+.contenedor-total{width: 1080px; background-color: white;margin: auto}
+
+.bannerindex{width: 90%;margin-left: 5%}
+.bannerindex img{width: 100%}
+.bannerramas{width: 50%;margin-left: 25%;margin-bottom: 70px}
+.bannerhistoria{width: 50%;margin-left: 25%; padding-bottom: 0px}
+.bannerramas img{width: 100%}
+
+
+
+.linea{height: 20px;width: 60%;background-color: black}
+
+.firstrow{display: flex;padding-top: 50px}
+.inicio{width: 45%;}
+.imgbanner img{width: 100%}
+.txt{width: 51%; padding: 2%;}
+
+
+.texto-introductorio{ width: 60%;margin-left: 20%;padding-top: 10px;text-align: center;}
+
+.secondrow{display: flex;}
+.txtsegundo{width: 51%; padding: 2%}
+.mitad{width: 50%;}
+.mitad img{width: 100%}
+
+
+
+.cajatrescolumnas{ width: 90%;display: flex; padding-top: 30px; margin-left: 6%;padding-top: 20px; text-align: center; }
+.cajauno{margin-left: 2%; width: 100%; padding-bottom: 20PX}
+.cajauno img{padding-bottom: 20px}
+
+.cajauno:hover {}
+.cajados{width: 100%;height: 100%;}
+a{text-decoration: none; list-style: none;color: black;}
+.me-4{color: black}
+
+.cajados:hover {
+  transform: scale(0.7);
+  transition-duration: 1s;
+  transition-timing-function: ease-out;
+}
+
+.primeracolumna{display: flex;margin: 0px;padding: 0px}
+.principiodos{width: 100%;margin-top: 40%; }
+.imghistoria img{width: 100%}
+.inicios{width: 45%;}
+
+.creacion{width: 90%; margin-left: 5%}
+.creacion img{width: 100%;padding-bottom: 10px}
+h2{padding-top: 50px; padding-bottom: 25px;font-size: 25px}
+
+.titulos{font-size: 30px;padding: 20px; text-align: center;}
+.argentina{text-align: center;}
+.argentina img{width: auto;}
+.texto-foto{width: 90%;padding: 30px;margin-left: 5%;text-align: left;}
+
+h3{text-align: center;padding: 5px}
+
+.close {
+  font-size: 1.5rem;
+}
+
+.col-12 img {
+  opacity: 0.7;
+  cursor: pointer;
+  margin: 2rem;
+  width: 100%;
+}
+
+.col-12 img:hover {
+  opacity: 1;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+.pie{color: black;text-align: center;}
+
+h4{width: 70%;font-size: 20px;padding-left: 40px}
+
+footer{background-color: black;color: white; padding: 10px;text-align: center;}
+
+
